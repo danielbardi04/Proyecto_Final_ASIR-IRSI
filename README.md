@@ -19,3 +19,20 @@ RESUMEN DE TAREAS REALIZADAS EN EL PROYECTO:
 * Se han definido IPs estáticas para los servidores y dinámicas para los clientes.
 * Hemos documentado cada fase del proyecto de forma detallada.
 * Hemos grabado un vídeo explicativo con el funcionamiento del sistema.
+
+
+BIBLIOGRAFÍA
+* Microsoft. Instalación y configuración de Active Directory en Windows Server. Microsoft Docs.
+https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/deploy/install-active-directory-domain-services--level-100-
+* Apache Software Foundation. Apache HTTP Server Documentation.
+https://httpd.apache.org/docs/
+* ISC (Internet Systems Consortium). DHCP Server Documentation.
+https://www.isc.org/dhcp/
+* Oracle. MySQL 8.0 Reference Manual.
+https://dev.mysql.com/doc/refman/8.0/en/
+* Python Software Foundation. Documentación oficial de Python.
+https://docs.python.org/es/3/
+* VirtualBox. Oracle VM VirtualBox User Manual.
+https://www.virtualbox.org/manual/UserManual.html
+*Ubuntu. Guía de administración del servidor Ubuntu 20.04 LTS.
+https://ubuntu.com/server/docs
