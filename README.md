@@ -129,10 +129,18 @@ Se comenzó la presentación
     - https://www.youtube.com/watch?v=silzhwZQfeU
 
 
-
-ENLACE VÍDEO:
+ ---------------
+| ENLACE VÍDEO: |
+ ---------------
 - primera entrega:
   https://drive.google.com/file/d/1Cbh1Rd3xS2gGnAgiOtyijRAIBh2rDGK2/view?usp=drive_link
   
 - segunda entrega:
   https://drive.google.com/file/d/1QF7rdUZWERddINN3HvM98pazrDI6RmVU/view?usp=sharing
+
+ ------------------
+|MÁQUINAS VIRTUALES|
+ -------------------
+ - https://drive.google.com/file/d/1XBhuHaclrr4oXRBHyaV0UlhoarVAnn3R/view?usp=drive_link
+ - https://drive.google.com/file/d/1AJHfviXgzoNksA9PWqDdF_To-sKhVEQm/view?usp=drive_link
+   
