@@ -1,5 +1,6 @@
-RESUMEN DE TAREAS REALIZADAS EN EL PROYECTO:
-
+ ----------------------------------------------
+| RESUMEN DE TAREAS REALIZADAS EN EL PROYECTO: |
+ ----------------------------------------------
 * Hemos diseñado una infraestructura de red moderna para el Ayuntamiento de Torre del Mar.
 * Hemos redactado un anteproyecto explicando el objetivo, tecnologías y servicios necesarios.
 * Hemos creado una máquina virtual con Windows Server.
@@ -27,60 +28,82 @@ RESUMEN DE TAREAS REALIZADAS EN EL PROYECTO:
 * Se ha continuado con el trabajo sobre los certificados SSH durante varias sesiones.
 * Se han creado funciones específicas dentro de la base de datos para automatizar ciertos procesos y mejorar la eficiencia del sistema.
 
-
-
-HISTORICO DE VERSIONADO:
-5 de abril de 2025
+ ---------------------------------------
+| HISTÓRICO DE VERSIONADO DEL DOCUMENTO |
+ ---------------------------------------
+5 de abril de 2025 - Nazaret
 Se añadió título, portada, historial de versionado, pie de página, índice  y encabezado.
 
-5 de abril de 2025
+ 
+5 de abril de 2025 - Nazaret & Dani
 Se hizo el anteproyecto.
 
-21  de abril de 2025
+
+21 de abril de 2025 - Dani
 Se hicieron arreglos en el anteproyecto.
 
-10 de abril de 2025
+
+10 de abril de 2025 - Dani
 Se comenzó a crear la página web.
 
-Se trabaja todos los días para su mejora.
+
+10 de abril de 2025 - Dani
 Se creó la base de datos.
 
-Se trabaja todos los días para su mejora.
+
+12 de abril de 2025 - Nazaret
 Se creó la máquina virtual.
 
-12 de abril de 2025
+
+12 de abril de 2025 - Nazaret
 Se creó el dominio y usuarios.
 
-18 de abril de 2025
+
+18 de abril de 2025 - Dani
 Se continuó con la base base de datos.
 
-21 de abril de 2025
+
+21 de abril de 2025 - Nazaret
 Se trabajó en los usuarios y los equipos de active directory.
 
-25 de abril de 2025
+
+25 de abril de 2025 - Dani
 Se trabajó en la conexión de red.
 
-28 de abril de 2025
-5.1
-Se trabajó en el ámbito del DHCP.
-27-28
 
-30 de abril de 2025
+28 de abril de 2025 - Nazaret & Dani
+Se trabajó en el ámbito del DHCP.
+
+
+30 de abril de 2025 - Dani
 Se trabajó en el certificado de seguridad SSH.
 
-21 de mayo de 2025
+
+21 de mayo de 2025 - Dani & Nazaret
 Se realizaron las pruebas correctas para la comprobación de lo creado anteriormente.
 
-27 de mayo de 2025
+27 de mayo de 2025 - Dani
 Se trabajó en el certificado de seguridad SSH.
 
 
-30 de mayo de 2025
+30 de mayo de 2025 - Nazaret
 Se crearon las funciones en la base de datos.
 
 
+4 de junio de 2025 - Nazaret & Dani
+Se empezó a trabajar un script de python para la seguridad en nuestro servidor.
 
-BIBLIOGRAFÍA
+5 de junio de 2025 - Nazaret & Dani
+Se comenzó la presentación
+
+
+
+
+
+
+ --------------
+| BIBLIOGRAFÍA |
+ --------------
 * Microsoft. Instalación y configuración de Active Directory en Windows Server. Microsoft Docs. 
     - https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/deploy/install-active-directory-domain-services--level-100-
 * Apache Software Foundation. Apache HTTP Server Documentation. 
